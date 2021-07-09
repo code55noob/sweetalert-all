@@ -1,3 +1,4 @@
 # sweetalert-all
 
-ขี้เกียจหา
+- รวมไฟล์ sweetalert v1 v2
+- ขี้เกียจหา
